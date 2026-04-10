@@ -40,7 +40,7 @@
 python scripts/run_pipeline.py 招标文件.docx 输出方案.docx \
   --api-key sk-xxx \
   --model glm-4.5-air \
-  --project-context "三亚崖州湾科技城车联网项目" \
+  --project-context "车联网项目" \
   --industry "智慧交通"
 ```
 
